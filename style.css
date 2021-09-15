@@ -1,0 +1,47 @@
+
+figure{
+    position: absolute;
+  margin-left: 70px  ;
+    background-color: white;
+    border-radius: 10px;
+  box-shadow: 5px 5px 15px #913805d7;
+  width: 500px;
+    padding: 10px;
+    
+  
+    
+  }
+  main{
+  position: absolute ;
+  margin-top: 415px;
+  margin-left: 35px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 5px 5px 15px #913805d7;
+  width: 600px;
+  padding: 10px;
+  
+  
+  }
+  h4{
+    position: absolute ;
+  margin-top: 440px;
+  margin-left: 825px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 5px 5px 15px #913805d7;
+  width: 400px;
+  padding: 10px;
+  }
+  
+  iframe{
+    position: absolute ;
+  margin-top: 28px;
+  margin-left: 660px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 5px 5px 15px #913805d7;
+  width: 600px;
+  padding: 10px;
+  }
+  
